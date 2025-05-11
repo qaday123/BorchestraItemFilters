@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BorchestraItemFilters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d206f059322a59f1a78c10a0dc9a0ce5e773bed6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e890fc607da23720f29df003b32c8dd642f199c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BorchestraItemFilters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BorchestraItemFilters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
